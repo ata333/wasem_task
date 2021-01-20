@@ -28,7 +28,7 @@ def _deactivate(args):
 _deactivate(["nondestructive"])
 aliases["deactivate"] = _deactivate
 
-$VIRTUAL_ENV = r"/home/ata2/Desktop/dev"
+$VIRTUAL_ENV = r"/home/ata2/Desktop/dev/wasem_task"
 
 $_OLD_VIRTUAL_PATH = $PATH
 $PATH = $PATH[:]
